@@ -8,6 +8,10 @@ This project demonstrates a complete RTL-to-GDSII physical design flow for a 4-b
 
 The ALU supports 8 operations selected using a 3-bit control input.
 
+## Final GDSII Layout
+
+![4-bit ALU GDSII Layout](results/alu4_layout.png)
+
 ## ALU Operations
  ---------------------------
 | ALU_Sel   | Operation     |

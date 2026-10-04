@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "alu4",
+    "VERILOG_FILES": [
+        "dir::alu4.v"
+    ],
+    "CLOCK_PORT": null,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": [0, 0, 300, 300],
+    "CORE_AREA": [20, 20, 280, 280]
+}

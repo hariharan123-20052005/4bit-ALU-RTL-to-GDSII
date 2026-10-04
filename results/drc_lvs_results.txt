@@ -1,0 +1,15 @@
+4-BIT ALU — FINAL PHYSICAL VERIFICATION
+
+Routing DRC errors: 0
+Magic DRC errors: 0
+KLayout DRC errors: 0
+
+LVS device difference: 0
+LVS net difference: 0
+LVS property failures: 0
+LVS errors: 0
+Unmatched devices: 0
+Unmatched nets: 0
+Unmatched pins: 0
+
+Final status: DRC PASS / LVS PASS
